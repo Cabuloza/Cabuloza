@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**Cabuloza/Cabuloza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineering and Management student** at **TU Graz**, currently at the beginning of my studies and exploring the world of software development.
 
-Here are some ideas to get you started:
+I'm interested in building things, learning how software works, and gradually expanding my skills through personal and university projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on:
+
+I'm currently working on a few projects while learning and experimenting with different technologies.
+
+* 🌐 Building web projects and personal websites
+* 💻 Learning **C** and strengthening my programming fundamentals
+* 🧪 Learning more about testing, debugging, and software development practices
+* 📚 Studying Software Engineering and related topics
+
+## 🛠️ Tools & Technologies
+
+**Languages**
+
+* HTML
+* CSS
+* JavaScript
+* C
+
+**Currently exploring**
+
+* React
+* Git & GitHub
+* Data Structures & Algorithms
+* Testing & Debugging
+
+**Tools**
+
+* Visual Studio Code
+* Git
+* GitHub
+* Figma
+
+## A little more about me
+
+I'm still at the beginning of my software engineering journey, so this profile is a place where I can document what I'm learning, the projects I'm building, and how my skills develop over time.
+
+I enjoy learning by **building things rather than only following tutorials** — breaking something, figuring out why it doesn't work, and improving it is a big part of how I learn.
+
+## Get in touch
+
+If you'd like to reach me, feel free to send me an email:
+
+**milosevichana@hotmail.com**
