@@ -4,15 +4,6 @@ I'm a **Software Engineering and Management student** at **TU Graz**, currently 
 
 I'm interested in building things, learning how software works, and gradually expanding my skills through personal and university projects.
 
-## What I'm working on:
-
-I'm currently working on a few projects while learning and experimenting with different technologies.
-
-* 🌐 Building web projects and personal websites
-* 💻 Learning **C** and strengthening my programming fundamentals
-* 🧪 Learning more about testing, debugging, and software development practices
-* 📚 Studying Software Engineering and related topics
-
 ## Tools & Technologies
 
 **Languages**
