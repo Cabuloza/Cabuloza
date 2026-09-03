@@ -13,7 +13,7 @@ I'm currently working on a few projects while learning and experimenting with di
 * 🧪 Learning more about testing, debugging, and software development practices
 * 📚 Studying Software Engineering and related topics
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Languages**
 
